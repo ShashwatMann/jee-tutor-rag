@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+sentence-transformers
+faiss-cpu
+numpy
+requests
+pymupdf
+python-multipart

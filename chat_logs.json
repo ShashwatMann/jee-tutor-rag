@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Two capacitors are first connected in se...",
+    "messages": [
+      {
+        "question": "Two capacitors are first connected in series and then in parallel. The ratio of the equivalent capacities in the two cases will be:\r\n(1) 2:1 (2) 1:4 (3) 4:1 (4) 1:2",
+        "answer": "The answer you provided is incorrect, the correct answer is the following:\r\n\r\nLet the two capacitors have capacitances C1\u200b and C2.\r\n1. Capacitors in Series:\r\n\r\nThe equivalent capacitance is given by:\r\n1/Cseries=1/C1+1/C2\u21d2Cseries=C1C2/(C1+C2)\r\n\u200b\u200b\r\n2. Capacitors in Parallel:\r\n\r\nThe equivalent capacitance is:\r\nCparallel=C1+C2\r\n\r\nRatio of Capacities (Series : Parallel):\r\nCseries/Cparallel=(C1C2/(C1+C2))/(C1+C2)=C1C2/((C1+C2)^2)\r\n\u200b\u200b\r\n\r\nThis expression depends on the values of C1\u200b and C2\u200b. To find the ratio, assume simple values:\r\n\r\nLet C1=C2=C\r\n\r\nThen:\r\n\r\n    Cseries=C\u22c5C/(C+C)=C^2/(2C)=C/2\u200b\r\n\r\n    Cparallel=C+C=2C\r\n\r\nSo,\r\nCseries/Cparallel=(C/2)/(2C)=1/4\r\n\r\nFinal Answer:\r\n(2) 1:4"
+      },
+      {
+        "question": "Correction:  Let the two capacitors have capacitances C1\u200b and C2. 1. Capacitors in Series: The equivalent capacitance is given by: 1/Cseries=1/C1+1/C2\u21d2Cseries=C1C2/(C1+C2) \u200b\u200b 2. Capacitors in Parallel: The equivalent capacitance is: Cparallel=C1+C2 Ratio of Capacities (Series : Parallel): Cseries/Cparallel=(C1C2/(C1+C2))/(C1+C2)=C1C2/((C1+C2)^2) \u200b\u200b This expression depends on the values of C1\u200b and C2\u200b. To find the ratio, assume simple values: Let C1=C2=C Then: Cseries=C\u22c5C/(C+C)=C^2/(2C)=C/2\u200b Cparallel=C+C=2C So, Cseries/Cparallel=(C/2)/(2C)=1/4 Final Answer: (2) 1:4",
+        "answer": "Let's break down the problem step by step.\n\n(a) The equivalent capacitance of the network is given by:\n\nC = C1 + C2 + C3 + C4\n\nWe are told that C1 = C2 = C3 = 10 mF, so we can simplify this expression as follows:\n\nC = (3 \u00d7 10 mF) + C4\n\nSubstituting C4 = 10 mF gives us:\n\nC = 30 mF + 10 mF\n= 40 mF\n\nSo, the equivalent capacitance of the network is 40 mF.\n\n(b) The charge on each capacitor (C1, C2, and C3) is equal to Q. Since they are connected in series, we can use the formula:\n\nQ = (V \u00d7 C1) + (V \u00d7 C2) + (V \u00d7 C3)\n\nSubstituting V = 500 V and the values of C1, C2, and C3 gives us:\n\nQ = (500 V \u00d7 10 mF) + (500 V \u00d7 10 mF) + (500 V \u00d7 10 mF)\n= 5000 \u03bcC\n\nSo, the charge on each capacitor is 5000 \u03bcC.\n\nNote that we can also find the charge on C4 using the formula:\n\nQ' = (V \u00d7 C4)\n\nSubstituting V = 500 V and C4 = 10 mF gives us:\n\nQ' = (500 V \u00d7 10 mF) = 5000 \u03bcC\n\nThis confirms that the charge on each capacitor is indeed 5000 \u03bcC."
+      }
+    ]
+  },
+  {
+    "title": "In SO2, NO2- and N3-, the hybridizations...",
+    "messages": [
+      {
+        "question": "In SO2, NO2- and N3-, the hybridizations at the central atom are respectively : (1) sp2, sp2, and sp2 (2) sp, sp2, and sp (3) sp2, sp, and sp (4) sp2, sp2, and sp",
+        "answer": "To solve this problem, we need to determine the hybridization of the central atom in each of these molecules.\n\n1. In SO2:\nThe molecular formula is SO2. The sulfur atom has a double bond with oxygen, which means it is bonded to one oxygen through a double bond and one oxygen through a single bond. Since there are only 6 electrons around the sulfur atom (4 from sulfur itself and 2 from the two oxygens), the sulfur atom will use sp2 hybridization.\n\nSo, the answer for SO2 is sp2.\n\n2. In NO2-:\nThe molecular formula is NO2-. The nitrogen atom has a double bond with oxygen, which means it is bonded to one oxygen through a double bond and one oxygen through a single bond. Since there are only 6 electrons around the nitrogen atom (4 from nitrogen itself and 2 from the two oxygens), the nitrogen atom will use sp2 hybridization.\n\nSo, the answer for NO2- is sp2.\n\n3. In N3-:\nThe molecular formula is N3-. The nitrogen atom has three single bonds with nitrogen atoms, which means it is bonded to each of the other nitrogen atoms through a single bond. Since there are only 6 electrons around the nitrogen atom (4 from nitrogen itself and 2 from the other two nitrogens), the nitrogen atom will use sp hybridization.\n\nSo, the answer for N3- is sp.\n\nNow, we can compare these answers to the options given:\n\n(1) sp2, sp2, and sp: This option matches our answers for SO2 and NO2-, so it's a good candidate.\n\n(2) sp, sp2, and sp: This option matches our answer for N3- but not for SO2 and NO2-. So, this is not the best match.\n\n(3) sp2, sp, and sp: This option doesn't match any of our answers well. It's unlikely that all three molecules would have different hybridizations (sp, sp2, and sp), so this isn't a good candidate either.\n\n(4) sp2, sp2, and sp: This option matches our answer for SO2 but not for NO2- or N3-. So, this is also an unlikely candidate.\n\nTherefore, the best match is:\n\n(1) sp2, sp2, and sp\n\nSo, the correct answer is (1)."
+      }
+    ]
+  },
+  {
+    "title": "Two capacitors are first connected in se...",
+    "messages": [
+      {
+        "question": "Two capacitors are first connected in series and then in parallel. The ratio of the equivalent capacities in the two cases will be: (1) 2:1 (2) 1:4 (3) 4:1 (4) 1:2",
+        "answer": "When the capacitors are connected in series:\n\nC = C1 + C2 ... (Equation 2.60)\n\nLet's assume C1 = C2 = 10 mF. Then,\n\nC = 20 mF\n\nNow, when these same capacitors are connected in parallel:\n\nC = C1 + C2 = 20 mF\n\nSo, the equivalent capacitance is the same for both series and parallel connections.\n\nTherefore, the ratio of the equivalent capacities is 1:1 or 1.\n\nAnswer: (4) 1:1"
+      }
+    ]
+  }
+]
